@@ -1,4 +1,4 @@
-[](https://github.com/kclbarreda/Elective-Laboratories/blob/main/Laboratory%202/Branding/Profile%20Banner.png)
+![Profile Banner](https://github.com/kclbarreda/Elective-Laboratories/blob/main/Laboratory%202/Branding/Profile%20Banner.png)
 # 💫 About Me:
 🔭 I’m currently working on my Bachelors of Science in Civil Engineering <br>👯 I’m looking to collaborate on Statics <br>🤝 I’m looking for help with Statics<br>🌱 I’m currently learning IT Skills in 21st Century<br>💬 Ask me about Calculus <br>⚡ Fun fact I'm not that old
 
